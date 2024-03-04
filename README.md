@@ -5,7 +5,7 @@
 - **GitHub Username:** stelio02
 
 ## Team Members:
-1. [Eriklina Topalli] - GitHub: eriklina
+1. Eriklina Topalli - GitHub: eriklina
 2. Egi Dajzmaili - GitHub: Egid25
 3. Dea Troci - GitHub: Deatroci
 4. Alvi Kalia - GitHub: alvikalia
