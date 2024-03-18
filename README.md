@@ -42,11 +42,12 @@ The team leader will assist and check the work everyone is doing periodically an
 3. Dea Troci - Developing the website
 4. Alvi Kalia - Developing the website
 
-1. Chosen Development Model:
-Waterfall
+
+## 1. Chosen Development Model:
+## Waterfall
 The Waterfall model is selected due to stable and well-defined project requirements, making it feasible for a linear, sequential approach. This model ensures systematic progression through phases with clear documentation and formal sign-off at each stage, suitable for projects where requirements are unlikely to change. Its structured approach offers predictability and control over the development process, making it a suitable choice for this project.
-2.User Requirements:
-1. Key Stakeholders:
+## 2.User Requirements:
+ Key Stakeholders:
 End-users:
 •	Tourists/Travelers: These are the individuals who will use the travel agency website to explore destinations, book trips, and access travel-related information.
 
@@ -65,12 +66,12 @@ User Type: Administrator (Travel Agency Staff)
 Requirement: As an administrator, I want to be able to manage and update the website content, including adding new destinations, updating travel packages, and publishing blog posts.
 Benefit: Empowering administrators to manage website content ensures that the information provided to users remains accurate, up-to-date, and engaging. It allows the travel agency to respond quickly to changes in the market, promote new offers or destinations, and maintain a dynamic online presence.
 
-3.Functional Requirements:
+## 3.Functional Requirements:
 a. Brief Description: 
 •	Help users find their dream destinations: Our system will let users easily search and explore various travel destinations based on their preferences like location, activities, and budget.b. Acceptance Criteria:
 •	Enable seamless booking of travel services: Users can conveniently book flights, accommodations, tours, and other travel services directly through our website.
 •	Empower administrators to manage website content: Our system allows administrators to add, update, and publish content such as new destinations, travel packages, and blog posts.
-4.Non-Functional Requirements:
+## 4.Non-Functional Requirements:
 a. Brief Description: 
 The system should be user-friendly and secure.
 b. Acceptance Criteria:
@@ -78,7 +79,7 @@ System should respond to user actions within 3 seconds.
 User interface should follow intuitive design principles.
 All user data should be encrypted and securely stored.
 
-5.Application Specifications:
+## 5.Application Specifications:
 
 a. Architecture: The system follows a client-server architecture with a web-based front end and a backend server handling data processing.
 b. Database Model: Utilizes a relational database model with tables for users, destinations, bookings, etc., ensuring data integrity and efficiency.
@@ -93,7 +94,7 @@ Each destination can have multiple bookings, but each booking is associated with
 c. Technologies Used: Developed using HTML, CSS, JavaScript for the front end, with PHP for server-side scripting and MySQL for database management. These choices were made for their widespread support and suitability for web development.
 d. User Interface Design: Wireframes and mockups depict a user-friendly interface with intuitive navigation and clear presentation of travel packages and booking options.
  
-Overall Design Principles:
+## Overall Design Principles:
 •	Clean and modern design with intuitive navigation for easy browsing.
 •	Consistent branding and visual elements to reinforce the travel agency's identity.
 •	Responsive design to ensure seamless user experience across devices, including desktops, tablets, and mobile phones.
