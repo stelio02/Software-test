@@ -52,11 +52,15 @@ The Waterfall model is selected due to stable and well-defined project requireme
 •	Tourists/Travelers: These are the individuals who will use the travel agency website to explore destinations, book trips, and access travel-related information.
 
 ## Clients:
-•	Travel Agency Owners/Managers: They are the ones commissioning the website project. Their interests lie in having a user-friendly platform that attracts customers, drives bookings, and promotes their services effectively.
-•	Marketing Team: They are responsible for promoting the website and ensuring it aligns with the company's branding and marketing strategies.
+•	**Travel Agency Owners/Managers:**
+ They are the ones commissioning the website project. Their interests lie in having a user-friendly platform that attracts customers, drives bookings, and promotes their services effectively.
+•	**Marketing Team:** 
+They are responsible for promoting the website and ensuring it aligns with the company's branding and marketing strategies.
 Developers:
-•	Web Developers/Designers: They are responsible for building and designing the website according to the requirements provided. Their interest lies in creating a technically sound and visually appealing website that meets client expectations.
-•	Software Engineers/Programmers: They handle the technical aspects of website development, including coding, database management, and ensuring functionality.
+•	**Web Developers/Designers:** 
+They are responsible for building and designing the website according to the requirements provided. Their interest lies in creating a technically sound and visually appealing website that meets client expectations.
+•	**Software Engineers/Programmers:** 
+They handle the technical aspects of website development, including coding, database management, and ensuring functionality.
 ## b. User Stories:
 ## User Type: End-user (Tourist/Traveler)
 Requirement: As a tourist, I want to be able to easily search for and browse different travel destinations based on my preferences, such as location, activities, budget, and dates.
